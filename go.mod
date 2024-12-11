@@ -23,7 +23,6 @@ require (
 	github.com/docker/go-units v0.4.0
 	github.com/dustinkirkland/golang-petname v0.0.0-20191129215211-8e5a1ed0cff0
 	github.com/gobwas/glob v0.2.3
-	github.com/golang/mock v1.6.0 // indirect
 	github.com/google/go-github/v42 v42.0.0
 	github.com/google/go-github/v45 v45.2.0
 	github.com/google/uuid v1.3.0
@@ -38,7 +37,7 @@ require (
 	github.com/spf13/viper v1.11.0
 	github.com/stretchr/testify v1.7.1
 	github.com/wessie/appdirs v0.0.0-20141031215813-6573e894f8e2
-	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
+	golang.org/x/crypto v0.31.0
 	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1
 	google.golang.org/api v0.96.0
 	gopkg.in/alessio/shellescape.v1 v1.0.0-20170105083845-52074bc9df61
@@ -188,11 +187,11 @@ require (
 	github.com/zclconf/go-cty v1.9.1 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
-	golang.org/x/net v0.0.0-20220920203100-d0c6ba3f52d9 // indirect
-	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f // indirect
-	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/net v0.21.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/term v0.27.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
